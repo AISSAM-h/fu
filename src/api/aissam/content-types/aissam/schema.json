@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aissams",
+  "info": {
+    "singularName": "aissam",
+    "pluralName": "aissams",
+    "displayName": "aissam",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "message": {
+      "type": "text"
+    }
+  }
+}
